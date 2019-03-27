@@ -10,3 +10,34 @@ body {
   margin: 0;
   min-height: 100%;
 }
+
+p {
+  margin: 2% 5%;
+
+}
+
+img {
+  max-width: 900px;
+  text-align: center;
+}
+
+.menu-bar {
+  display: flex;
+}
+.menu-items {
+  padding: 5px 5px;
+  border: 2px solid #112F41;
+  border-radius: 2px;
+  text-align: center;
+  margin: 10px;
+}
+
+h1{
+  color: #112F41;
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
+
